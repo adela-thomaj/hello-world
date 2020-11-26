@@ -1,0 +1,11 @@
+h1 {
+    color: teal;
+    text-align: center;
+}
+
+p style {
+    border-style: solid;
+    border-color: teal;
+    width: 2px;
+    text-align: center;
+}
